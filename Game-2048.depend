@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1631693278 source:d:\code (c++)\game-2048\sdl_units.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<iostream>
+	"Events.h"
+
+1631630361 source:d:\code (c++)\game-2048\events.cpp
+	<bits/stdc++.h>
+	"Events.h"
+
+1631629020 d:\code (c++)\game-2048\events.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<bits/stdc++.h>
+
+1631693363 source:d:\code (c++)\game-2048\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<ctime>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	"SDL_units.h"
+	"Events.h"
+
+1631632025 d:\code (c++)\game-2048\sdl_units.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<iostream>
+	"Events.h"
+
+1631616642 d:\code (c++)\game-2048\solve_event.h
+	"Events.h"
+
+1631630361 source:e:\c++\game-2048\events.cpp
+	<bits/stdc++.h>
+	"Events.h"
+
+1631629020 e:\c++\game-2048\events.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<bits/stdc++.h>
+
+1631693363 source:e:\c++\game-2048\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<ctime>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	"SDL_units.h"
+	"Events.h"
+
+1631632025 e:\c++\game-2048\sdl_units.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<iostream>
+	"Events.h"
+
+1631693278 source:e:\c++\game-2048\sdl_units.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<iostream>
+	"Events.h"
+
